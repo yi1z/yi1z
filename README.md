@@ -28,7 +28,7 @@ My name is Yifang Zhang, a fourth year undergraduate student at University of To
 ## ⚡ Hobbies
 
 - I play a lot of games, and I do play a lot XD, you can find my steam account by (https://steamcommunity.com/profiles/76561198324245418)
-- All types of music, as long as they are not the kind that hurts my ears XD. I also make music myself when I am free, mostly electronic music, I posted them on Netease Cloud Music, if you wanna check them out, my account is ([Y.I-L.Z](https://music.163.com/#/artist?id=34438656)).
+- All types of music, as long as they are not the kind that hurts my ears. I also make music myself when I am free, mostly electronic music, I posted them on Netease Cloud Music, if you wanna check them out, my account is ([Y.I-L.Z](https://music.163.com/#/artist?id=34438656)).
 - Animes. I do not watch them as much as I did in earlier years but I still enjoy that style of performance.
 - I read light novels, and I also wrote some myself (in Chinese). I uploaded some that I am satisfied with on an Chinese online platform, however basically all of them were taken down by website administrators since I put too many mature sections in my novels (well, strictly speaking, nothing I wrote was R18 stuff, but appearantly they were still too much for a Chinese website XD, idk I guess I'll take the result that most of my work disappeared from the website). Anyways, I still got a little left so here is the website (https://book.sfacg.com/) and my account is `奇夸克`.
 
