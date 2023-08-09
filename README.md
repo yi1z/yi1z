@@ -1,8 +1,8 @@
-### Welcome
+### ✨ Welcome ✨
 
-## About me
+## 🌱 About me
 
-My name is Yifang Zhang, an fourth year undergraduate student in University of Toronto, Computer Science Specialist. I am currently 21 years old, and live in Toronto.
+My name is Yifang Zhang, a fourth year undergraduate student at University of Toronto, Computer Science Specialist. I am currently 21 years old, and live in Toronto.
 
 ## 📫 Contact
 
@@ -28,7 +28,7 @@ My name is Yifang Zhang, an fourth year undergraduate student in University of T
 ## ⚡ Hobbies
 
 - I play a lot of games, and I do play a lot XD, you can find my steam account by (https://steamcommunity.com/profiles/76561198324245418)
-- All types of music, as long as they are not the type that hurts my ears. I also make music myself when I am free, mostly electronic music, I posted them on Netease Cloud Music, if you wanna check them out, my account is (Y.I-L.Z).
+- All types of music, as long as they are not the type that hurts my ears. I also make music myself when I am free, mostly electronic music, I posted them on Netease Cloud Music, if you wanna check them out, my account is ([Y.I-L.Z](https://music.163.com/#/artist?id=34438656)).
 - Animes. I do not watch them as much as I did in earlier years but I still enjoy that style of performance.
 - I read light novels, and I also wrote a few novels myself. 
 
