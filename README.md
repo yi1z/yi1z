@@ -7,8 +7,6 @@ My name is Yifang Zhang, a fourth year undergraduate student at University of To
 ## 📫 Contact
 
 - Email: 1906404252@qq.com
-- Phone (CA): (+1) 5196194425
-- Phone (CN): (+86) 18262290823
 - Discord: `yilz#4725`
 
 ## 🔭 Skills
