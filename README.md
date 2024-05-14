@@ -16,6 +16,7 @@ My name is Yifang Zhang, a fourth year undergraduate student at University of To
 - Experienced with Shell
 - Experienced with HTML/CSS and Javascript
 - Experienced with SQL
+- Experienced with Unity
 - Familiar with assembly, system sturcture, and digital logic of computer
 - Familiar with UE4/5, Blender
 - Experienced with novel writing, fictional world design, character design, and plot design
